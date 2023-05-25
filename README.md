@@ -1,7 +1,5 @@
 # Astro Cheat Sheet
 
-
-<p>Sure! Here is a comprehensive cheat sheet with 500 Astro commands, categorized and explained, organized in a markdown table:</p>
 <table>
 <thead>
 <tr>
